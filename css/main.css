@@ -2,7 +2,7 @@
 body{
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: <100px>;
     font-style: normal;
     font-size:100px;
     text-align:center;
@@ -10,7 +10,7 @@ body{
 
 h2{ font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: <100px>;
     font-style: normal;
     font-size:20px;
     text-align:center;
